@@ -1,6 +1,0 @@
-# Server commands to use Willset Freeciv rules
-#
-
-rulesetdir Willset
-
-# changed game settings are defined in game.ruleset
